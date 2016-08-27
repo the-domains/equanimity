@@ -1,0 +1,14 @@
+layout_spectrum: 0.8347456043120474
+typography_spectrum: 0.4180755973793566
+color:
+  brandStrength: 0.13202472869306803
+  lightness: 0.418371221749112
+  saturation: 0.1659075696952641
+  rhythmicContrast: 0.17589994054287672
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Equanimity
